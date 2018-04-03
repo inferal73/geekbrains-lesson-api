@@ -1,6 +1,6 @@
 ## Корзина (/shop)
 
-#### GET:
+#### GET
 Получение корзины или создание новой корзины
 
 **Параметры запроса**:
@@ -51,7 +51,7 @@
 
 **Пример запроса**: 
 
-/shop?user_id=_kg0j5rfgr&**product=example**
+/shop**?user_id=_kg0j5rfgr&product=iPhone X&price=75000**
 
 **Ответ сервера**:
 
@@ -75,7 +75,7 @@
 
 **Пример запроса**: 
 
-/shop?user_id=_kg0j5rfgr&**product_id=_lcdpe3xxs**
+/shop?**user_id=_kg0j5rfgr&product_id=_lcdpe3xxs**
 
 **Ответ сервера**:
 

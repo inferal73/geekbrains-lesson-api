@@ -51,7 +51,7 @@
 
 **Пример запроса**: 
 
-/shop**?user_id=_kg0j5rfgr&product=iPhone X&price=75000**
+/shop?**user_id=_kg0j5rfgr&product=iPhone X&price=75000**
 
 **Ответ сервера**:
 
